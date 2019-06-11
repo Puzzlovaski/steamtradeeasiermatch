@@ -2,6 +2,7 @@
 // ==UserScript==
 // @name         SteamtradesEasierMatch
 // @namespace    http://tampermonkey.net/
+// @icon https://cdn.steamtrades.com/img/favicon.ico
 // @version      0.1
 // @description  Easy search for steamtrades!
 // @author       Puzzlovaski
