@@ -6,7 +6,7 @@
 // @version      0.1
 // @description  Easy search for steamtrades!
 // @author       Puzzlovaski
-// @license      GPLv3; http://www.gnu.org/licenses/gpl-3.0.txt
+// @license      GPL-3.0-or-later
 // @match        https://www.steamtrades.com/trades*
 // @grant        GM_setValue
 // @grant        GM_getValue
