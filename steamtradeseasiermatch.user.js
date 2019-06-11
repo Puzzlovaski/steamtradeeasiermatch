@@ -1,7 +1,6 @@
 
 // ==UserScript==
 // @name         SteamtradesEasierMatch
-// @icon         https://image.flaticon.com/icons/svg/34/34202.svg
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Easy search for steamtrades!
