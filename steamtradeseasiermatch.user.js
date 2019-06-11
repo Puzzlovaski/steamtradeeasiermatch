@@ -18,7 +18,7 @@ var autoMatch = false;      // If true, start matching after page loaded.
 // -------------------------------------------------------------------------------------------------
 
 // ========================================Coding section===========================================
-// box html
+// list box html
 const easyHtml = "<a id='easyOpen' href='javascript:void(0)' style='margin-bottom:5px; text-decoration:underline; color:rgb(120,169,71)'>Easy search</a>\
 <div class='search_trades' id='easyBox'>\
 <textarea id='haveList' type='text' placeholder='I have\n.\n.\n.' value></textarea>\
