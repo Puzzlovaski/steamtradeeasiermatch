@@ -91,5 +91,10 @@ function resolve(){
 
         // post to each trade
         $(this).siblings("div.match").html("<p><b>[H]:</b> " + hL.toString() + "</p><p><b>[W]:</b> " + wL.toString() +"</p>");
-    });
+
+		// change background of tag that match both lists to green
+		if(hL.length > 0 && wL.length >0){
+            $(this).parent().css("background-color", "#bfff00");
+        }
+	});
 }
