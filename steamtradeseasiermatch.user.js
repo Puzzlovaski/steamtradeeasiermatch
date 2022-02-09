@@ -61,7 +61,7 @@ function easySearch(){
 
 function resolve(){
 
-    // get input and clean falsy values.
+    // get input and clean falsy values
     var iH = $("#haveList").val().replace(/^\s*$(?:\r\n?|\n)/gm, '').split("\n").filter(Boolean);
     var iW = $("#wantList").val().replace(/^\s*$(?:\r\n?|\n)/gm, '').split("\n").filter(Boolean);
 
