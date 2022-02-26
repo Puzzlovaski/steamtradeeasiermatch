@@ -27,7 +27,7 @@ const easyHtml = "<a id='easyOpen' href='javascript:void(0)' style='margin-botto
 </div>"
 $(document).ready(function(){
 
-    // Add search box
+    // Add search boxs
     $(".search_trades").before(easyHtml);
 
     // Add div for output on each trade
